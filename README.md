@@ -1,4 +1,4 @@
 # Voice_Recognition
+Click on the talk button and say your query related to covid-19 will display the result.
 
-Click On the talk button and say your query related to covid it will display you the result.
- eg :- Regiter For Verification,India Vaccine status,download vaccine certificate,coronavirus statewise cases
+ eg :- Register For Verification,India Vaccine status,download vaccine certificate,coronavirus statewise cases
